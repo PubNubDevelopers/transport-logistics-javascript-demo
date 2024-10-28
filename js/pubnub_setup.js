@@ -65,7 +65,7 @@ function testPubNubKeys() {
 async function requestAccessManagerToken(userId) {
   try {
     const TOKEN_SERVER =
-      "https://devrel-demos-access-manager.netlify.app/.netlify/functions/api/transportlogistics";
+      "https://devrel-demos-access-manager.netlify.app/.netlify/functions/api/transportlogistics-portalhosted";
     const response = await fetch(`${TOKEN_SERVER}/grant`, {
       method: "POST",
       headers: {
