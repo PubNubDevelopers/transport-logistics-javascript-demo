@@ -32,7 +32,7 @@ To run this project yourself you will need a PubNub account and a Google Maps AP
 ### Requirements
 - [PubNub Account](#pubnub-account) (*Free*)
 
-<a href="https://dashboard.pubnub.com/signup">
+<a href="https://admin.pubnub.com/register">
 	<img alt="PubNub Signup" src="https://i.imgur.com/og5DDjf.png" width=260 height=97/>
 </a>
 
